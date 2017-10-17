@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="image_slide">
+        <item>@drawable/bg1</item>
+        <item>@drawable/bg2</item>
+        <item>@drawable/bg3</item>
+        <item>@drawable/bg4</item>
+        <item>@drawable/bg5</item>
+        <item>@drawable/bg6</item>
+        <item>@drawable/bg7</item>
+    </integer-array>
+
+    <string-array name="type">
+        <item>น้อย(อยู่ที่โต๊ะเป็นส่วนใหญ่ เช่น อาชีพออฟฟิศ)</item>
+        <item>ปานกลาง(นั่งเป็นครั้งคราว เช่น ครู หรือ พยาบาล)</item>
+        <item>ค่อนข้างมาก(เดินบ่อยครั้ง เช่น พนักงานเสริฟ หรือ พ่อครัว)</item>
+        <item>มาก(ทำงานหนัก เช่น อาชีพก่อสร้าง หรือ นักกีฬา)</item>
+    </string-array>
+
+</resources>
